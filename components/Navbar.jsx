@@ -22,7 +22,7 @@ const Navbar = () => {
    
 
   return (
-<nav className="flexBetween w-full fixed z-10 p-2 flex-row border-b bg-zinc-400"> 
+<nav className="flexBetween w-full fixed z-10 p-2 flex-row border-b bg-zinc-100"> 
 
 
                      <div className="flex flex-1 flex-row justify-start">
