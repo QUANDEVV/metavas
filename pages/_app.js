@@ -13,9 +13,10 @@ const MyApp = ({ Component, pageProps}) => (
   <div className=" ">
   {/* <Modal /> */}
   <Navbar />
-    <div className="pt-65">
+    <div className="pt-65 h-[150vh] ">
       <Component {...pageProps} />
     </div>
+    
     <Footer />
     
   </div>

@@ -68,6 +68,42 @@ CLICK TO DM US FOR A SERVICE 👇
                 </button>
                 </div>
 
+                <div className='flex justify-center mt-8'>
+               <button type='button' className=" bg-black-600 px-10  text-lg md:text-sm rounded-md shadow-xl  shadow-blue-300 active:scale-90 hover:translate-y-2 transition-all border-t-4 border-blue-300 font-semibold ">
+                <Link href={`https://t.me/metavass`}>CRYPTO COIN DEVELOPMENT
+                </Link>
+                </button>
+                </div>
+
+                <div className='flex justify-center mt-8'>
+               <button type='button' className=" bg-black-600 px-10  text-lg md:text-sm rounded-md shadow-xl  shadow-blue-300 active:scale-90 hover:translate-y-2 transition-all border-t-4 border-blue-300 font-semibold ">
+                <Link href={`https://t.me/metavass`}>CRYPTO COIN DEVELOPMENT
+                </Link>
+                </button>
+                </div>
+
+                <div className='flex justify-center mt-8'>
+               <button type='button' className=" bg-black-600 px-10  text-lg md:text-sm rounded-md shadow-xl  shadow-blue-300 active:scale-90 hover:translate-y-2 transition-all border-t-4 border-blue-300 font-semibold ">
+                <Link href={`https://t.me/metavass`}>CRYPTO COIN DEVELOPMENT
+                </Link>
+                </button>
+                </div>
+
+
+                <div className='flex justify-center mt-8'>
+               <button type='button' className=" bg-black-600 px-10  text-lg md:text-sm rounded-md shadow-xl  shadow-blue-300 active:scale-90 hover:translate-y-2 transition-all border-t-4 border-blue-300 font-semibold ">
+                <Link href={`https://t.me/metavass`}>CRYPTO COIN DEVELOPMENT
+                </Link>
+                </button>
+                </div>
+
+                <div className='flex justify-center mt-8'>
+               <button type='button' className=" bg-black-600 px-10  text-lg md:text-sm rounded-md shadow-xl  shadow-blue-300 active:scale-90 hover:translate-y-2 transition-all border-t-4 border-blue-300 font-semibold ">
+                <Link href={`https://t.me/metavass`}>CRYPTO COIN DEVELOPMENT
+                </Link>
+                </button>
+                </div>
+
 
 
 
