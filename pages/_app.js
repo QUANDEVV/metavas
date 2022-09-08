@@ -9,7 +9,7 @@ import Script from 'next/script';
 const MyApp = ({ Component, pageProps}) => (
 
   <ThemeProvider attribute="class">
-  <div className="dark:bg-nft-dark bg-white min-h-screen">
+  <div className="dark:bg-nft-dark ">
   {/* <Modal /> */}
   <Navbar />
     <div className="pt-65">
