@@ -7,7 +7,7 @@ const index = () => {
 
  return (
 
-   <div>
+   <div className=''>
 
 
 

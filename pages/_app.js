@@ -11,7 +11,7 @@ import Navber from '../components/Navber'
 const MyApp = ({ Component, pageProps}) => (
 
  <>
-  <div className=" ">
+  <div className=" bg-zinc-100">
   {/* <Modal /> */}
   <Navbar />
   <Navber />
