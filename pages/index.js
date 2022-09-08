@@ -6,23 +6,16 @@ import Link  from 'next/link';
 const index = () => {
 
  return (
-   
-<>
-<div className='border-b-4 '>
-<h1 className=' flex  justify-center font-bold font-poppins text-[0.96rem]'>
-   HELPING COMPANIES SUCCEED IN WEB3 WORLD
-</h1>
-<p className="flex justify-center my-2 font-semibold font-poppins text-[0.9rem] mt-8
- boder-b ">
-CLICK TO DM US FOR A SERVICE 👇
-</p>   
-</div>
+
+   <div>
 
 
 
 
 
-               <div className='flex justify-center mt-8'>
+
+
+               <div className='flex justify-center mt-8 '>
                <button type='button' className=" bg-black-600 px-2  text-lg md:text-sm rounded-md shadow-xl  shadow-blue-300 active:scale-90 hover:translate-y-2 transition-all border-t-4 border-blue-300 font-semibold ">
                 <Link href={`https://t.me/metavass`}>NFT MINTING SITE 
                </Link>
@@ -68,23 +61,27 @@ CLICK TO DM US FOR A SERVICE 👇
                 </button>
                 </div>
 
+             
                 <div className='flex justify-center mt-8'>
                <button type='button' className=" bg-black-600 px-10  text-lg md:text-sm rounded-md shadow-xl  shadow-blue-300 active:scale-90 hover:translate-y-2 transition-all border-t-4 border-blue-300 font-semibold ">
-                <Link href={`https://t.me/metavass`}>CRYPTO COIN DEVELOPMENT
+                <Link href={`https://t.me/metavass`}>HOW TO FILTER SPAM NFTS
+                </Link>
+                </button>
+                </div>
+
+           
+
+
+                <div className='flex justify-center mt-8'>
+               <button type='button' className=" bg-black-600 px-10  text-lg md:text-sm rounded-md shadow-xl  shadow-blue-300 active:scale-90 hover:translate-y-2 transition-all border-t-4 border-blue-300 font-semibold ">
+                <Link href={`https://t.me/metavass`}>HOW TO CANCEL A TRANSACTION ON ETHEREUM 
                 </Link>
                 </button>
                 </div>
 
                 <div className='flex justify-center mt-8'>
                <button type='button' className=" bg-black-600 px-10  text-lg md:text-sm rounded-md shadow-xl  shadow-blue-300 active:scale-90 hover:translate-y-2 transition-all border-t-4 border-blue-300 font-semibold ">
-                <Link href={`https://t.me/metavass`}>CRYPTO COIN DEVELOPMENT
-                </Link>
-                </button>
-                </div>
-
-                <div className='flex justify-center mt-8'>
-               <button type='button' className=" bg-black-600 px-10  text-lg md:text-sm rounded-md shadow-xl  shadow-blue-300 active:scale-90 hover:translate-y-2 transition-all border-t-4 border-blue-300 font-semibold ">
-                <Link href={`https://t.me/metavass`}>CRYPTO COIN DEVELOPMENT
+                <Link href={`https://t.me/metavass`}>HOW TO CHECK OWNER OF AN NFT
                 </Link>
                 </button>
                 </div>
@@ -92,23 +89,40 @@ CLICK TO DM US FOR A SERVICE 👇
 
                 <div className='flex justify-center mt-8'>
                <button type='button' className=" bg-black-600 px-10  text-lg md:text-sm rounded-md shadow-xl  shadow-blue-300 active:scale-90 hover:translate-y-2 transition-all border-t-4 border-blue-300 font-semibold ">
-                <Link href={`https://t.me/metavass`}>CRYPTO COIN DEVELOPMENT
+                <Link href={`https://t.me/metavass`}> HOW TO CREATE WHALE ALERT BOTS
                 </Link>
                 </button>
                 </div>
+
+
 
                 <div className='flex justify-center mt-8'>
                <button type='button' className=" bg-black-600 px-10  text-lg md:text-sm rounded-md shadow-xl  shadow-blue-300 active:scale-90 hover:translate-y-2 transition-all border-t-4 border-blue-300 font-semibold ">
-                <Link href={`https://t.me/metavass`}>CRYPTO COIN DEVELOPMENT
+                <Link href={`https://t.me/metavass`} > CRYPTO EXCHANGE WEBSITE
                 </Link>
                 </button>
                 </div>
 
 
+                <div className='flex justify-center mt-8'>
+               <button type='button' className=" bg-black-600 px-10  text-lg md:text-sm rounded-md shadow-xl  shadow-blue-300 active:scale-90 hover:translate-y-2 transition-all border-t-4 border-blue-300 font-semibold ">
+                <Link href={`https://t.me/metavass`}  > WEB3 CONSULTATION
+                </Link>
+                </button>
+                </div>
+
+
+             
 
 
 
-</>
+
+
+
+
+
+
+</div>
 
 
  )

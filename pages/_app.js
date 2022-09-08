@@ -6,6 +6,7 @@ import Footer from '../components/Footer'
 // import Modal from '../components/Modal'
 
 import Script from 'next/script';
+import Navber from '../components/Navber'
 
 const MyApp = ({ Component, pageProps}) => (
 
@@ -13,7 +14,8 @@ const MyApp = ({ Component, pageProps}) => (
   <div className=" ">
   {/* <Modal /> */}
   <Navbar />
-    <div className="pt-65 h-[150vh] ">
+  <Navber />
+    <div className="pt-[150px] h-[150vh] ">
       <Component {...pageProps} />
     </div>
     
