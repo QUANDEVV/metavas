@@ -8,7 +8,7 @@ import Script from 'next/script';
 
 const MyApp = ({ Component, pageProps}) => (
 
-  <ThemeProvider attribute="bg-white" className='bg-white'>
+ <>
   <div className=" ">
   {/* <Modal /> */}
   <Navbar />
@@ -19,8 +19,8 @@ const MyApp = ({ Component, pageProps}) => (
   </div>
 
   <Script src="https://kit.fontawesome.com/d45b25ceeb.js" crossorigin="anonymous" />
-</ThemeProvider>
 
+</>
 
 )
  

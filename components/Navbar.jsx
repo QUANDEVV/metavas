@@ -22,7 +22,7 @@ const Navbar = () => {
    
 
   return (
-<nav className="flexBetween w-full fixed z-10 p-2 flex-row border-b dark:bg-nft-dark dark:border-nft-black-1 border-nft-gray-1">
+<nav className="flexBetween w-full fixed z-10 p-2 flex-row border-b"> 
 
 
                      <div className="flex flex-1 flex-row justify-start">
