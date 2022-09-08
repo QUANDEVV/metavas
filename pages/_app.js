@@ -2,6 +2,7 @@ import { Component } from 'react'
 import '../styles/globals.css'
 import { ThemeProvider } from 'next-themes'
 import Navbar from '../components/Navbar'
+import Footer from '../components/Footer'
 // import Modal from '../components/Modal'
 
 import Script from 'next/script';
@@ -15,6 +16,7 @@ const MyApp = ({ Component, pageProps}) => (
     <div className="pt-65">
       <Component {...pageProps} />
     </div>
+    <Footer />
     
   </div>
 
