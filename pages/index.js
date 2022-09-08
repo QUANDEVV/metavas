@@ -9,7 +9,7 @@ const index = () => {
    
 <>
 
-<h1 className=' flex  font-bold font-poppins ml-2 mr-2'>
+<h1 className=' flex  justify-center font-bold font-poppins ml-2 mr-2'>
    HELPING COMPANIES SUCCEED IN WEB3 WORLD
 </h1>
 <p className="flex justify-center my-2 font-semibold font-poppins">
