@@ -3,7 +3,7 @@ import React from 'react'
 const Navber = () => {
   return (
     <div
-    className='bg-white h-40 fixed w-full pt-[55px] border-b-2 bg-zinc-100 justify-center items-center '
+    className=' h-40 fixed w-full pt-[55px] border-b-2 bg-zinc-100 justify-center items-center '
     >
      <h1 className=' flex  justify-center font-bold font-poppins text-[0.96rem]  my-[20px]'>
    HELPING COMPANIES SUCCEED IN WEB3 WORLD
