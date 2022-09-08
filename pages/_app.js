@@ -9,7 +9,7 @@ import Script from 'next/script';
 const MyApp = ({ Component, pageProps}) => (
 
   <ThemeProvider attribute="bg-white" className='bg-white'>
-  <div className="bg-white ">
+  <div className=" ">
   {/* <Modal /> */}
   <Navbar />
     <div className="pt-65">
