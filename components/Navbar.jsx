@@ -37,7 +37,7 @@ const Navbar = () => {
                                 <div className="hidden md:flex"
                                 onClick={() => {}}>
                                 <Image src={images.opensea} objectFit="contain" width={32} height={32} alt="logo" />
-                                <p className=" dark:text-white text-nft-black-1 font-semibold text-lg ml-3">metavas</p>
+                                <p className=" dark:text-white text-nft-black-1 font-semibold text-lg ml-3 ">metavas</p>
                                 </div>
                                 </Link> 
                                 </div>
